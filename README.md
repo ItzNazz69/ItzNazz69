@@ -1,7 +1,7 @@
 <!-- Hi MF <3 -->
-<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/br</a></h2>
+<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/C8Cb7yNTDa</a></h2>
 
-<p href="https://discord.gg/onlp" align="center">
+<p href="https://discord.gg/C8Cb7yNTDa" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/784492346493370408/>
 </p>
 
@@ -43,7 +43,7 @@ class Attributes:
 	@staticmethod
 	def projects(self) -> tuple:
 		discord   = ['Whitelis Ip', 'Whitelist App'...]
-		instagram = ['Gen']
+		instagram = ['Gen', 'Unfollow Checker']
 		website   = ['Full TikTok API', 'Backend']
 		
 		return discord, instagram, website
@@ -57,7 +57,7 @@ class Attributes:
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
+<p href="https://discord.gg/C8Cb7yNTDa" align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=ItzNazz69&show_icons=true&theme=tokyonight>
 </p>
 
