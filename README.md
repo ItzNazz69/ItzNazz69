@@ -2,7 +2,7 @@
 <h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/br</a></h2>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/784492346493370408/>
 </p>
 
 ```python
