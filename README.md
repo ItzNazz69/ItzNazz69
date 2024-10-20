@@ -56,6 +56,15 @@ class Attributes:
     <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,php,react,cs,cpp,c,vscode" />
   </a>
 </p>
+
+<h2 align="center">Certificate badge </h2>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/067556dd-6f09-408c-95da-b18b8d8f4bf3/public_url">
+    <img src="https://images.credly.com/size/340x340/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" />
+  </a>
+</p>
+
 <p href="https://discord.gg/C8Cb7yNTDa" align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=ItzNazz69&show_icons=true&theme=tokyonight>
 </p>
