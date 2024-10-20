@@ -1,5 +1,5 @@
 <!-- Hi MF <3 -->
-<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/C8Cb7yNTDa</a></h2>
+<!--<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/C8Cb7yNTDa</a></h2>-->
 
 <p href="https://discord.gg/C8Cb7yNTDa" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/784492346493370408/>
