@@ -56,7 +56,7 @@ class Attributes:
     <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,php,react,cs,cpp,c,vscode" />
   </a>
 </p>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="067556dd-6f09-408c-95da-b18b8d8f4bf3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p href="https://discord.gg/C8Cb7yNTDa" align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=ItzNazz69&show_icons=true&theme=tokyonight>
 </p>
