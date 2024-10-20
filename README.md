@@ -24,14 +24,14 @@ class Attributes:
 	def life(self) -> tuple:
 		langs         = ['French', 'English']
 		nationalities = self.langs.remove('French', 'English').append('Spanish')
-		age           = 18
+		age           = 21
 		
 		return langs, nationalities, age
 	
 	@staticmethod
 	def coding(self) -> tuple:
 		langs = {
-			'expert':   ['Html', 'Css', 'Lua', 'Python', 'Js', 'PhP'],
+			'expert':   ['Html', 'Css', 'Lua', 'Python', 'Js', 'PhP', 'C'],
 			'intermediate': ['React Native', 'React Js'],
 			'learning': ['C#', 'C++']
 		}
