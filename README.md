@@ -53,7 +53,7 @@ class Attributes:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,php,react,cs,cpp,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,php,react,cs,cpp,c,vscode" />
   </a>
 </p>
 
